@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap223jt&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap223jt&show_icons=true&theme=radical&card_width=50)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap223jt&layout=compact)](https://github.com/ap223jt/github-readme-stats)
   
 </details>
