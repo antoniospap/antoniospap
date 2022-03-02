@@ -1,11 +1,10 @@
-### Hi there, Antonios 👋 
+### Hi there, i'm Antonios 👋 
 
 ## I'm a Student, Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Create more projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Finish my bachelor degree  & gather some real experience
 
 ### Connect with me:
 
