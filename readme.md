@@ -1,10 +1,9 @@
 ### Hi there, i'm Antonios 👋 
 
-## I'm a Student, Developer!
+## I'm a Software Developer!
 
+- 🌱 Front-end software developer.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Finish my bachelor degree  & gather some real experience
 
 ### Connect with me:
 
@@ -31,17 +30,5 @@
 
 ---
 
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap223jt&show_icons=true&theme=radical&card_width=50)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap223jt&layout=compact)](https://github.com/ap223jt/github-readme-stats)
-  
-</details>
-
 [website]: http://antoniospa.se
-[instagram]: https://instagram.com/_antonios.p
 [linkedin]: https://www.linkedin.com/in/antonios-papathanassiadis/
