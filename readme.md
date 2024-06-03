@@ -2,7 +2,12 @@
 
 ## I'm a Software Developer!
 
-- 🌱 Front-end software developer.
+- Full-stack software developer, preferably front-end.
+- Passionate about building responsive, user-friendly web applications.
+- Experienced in working with various modern technologies and frameworks.
+- Continuously learning and staying updated with the latest industry trends.
+- Collaborative team player with excellent communication skills.
+
 
 
 ### Connect with me:
